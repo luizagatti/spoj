@@ -1,19 +1,3 @@
-/*
-Aluna:        Luiza de Almeida Gatti
-Matricula:    2013063142
-Explicação:
-Inicialmente eu leio o valor de N, que é a quantidade
-de caracteres que terei na minha cadeia (linha), em seguida
-leio a linha.
-Faço os cálculos para descobrir que o menor número de
-partes em que a cadeia deve ser dividida de forma
-que todas as partes dela sejam palíndromos.
-Depois de calculado, eu imprimo a ocorrência do teste onde
-estou, seguido pelo valor que obtive com os cálculos.
-
-Solução:
-*/
-
 #include <cstdio>
 #define MAX 5000
 
