@@ -1,17 +1,3 @@
-/*
-Aluna:        Luiza de Almeida Gatti
-Matricula:    2013063142
-Explicação:
-Inicialmente eu leio o comprimento da agulha, seguido pela
-agulha e pelo palheiro.
-Depois utilizo o algoritmo de KMP para calcular todas as 
-posições onde a agulha aparece no palheiro. É exibido o
-local da primeira letra da agulha se houver. Se não houver
-é exibida uma linha em branco.
-
-Solução:
-*/
-
 #include <cstdio>
 #include <cstring>
 #include <vector>
