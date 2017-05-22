@@ -6,7 +6,6 @@ using namespace std;
 
 int *sobrepor;
 char *padrao;
-
 vector< int > calculaKMP(int n){
 	vector< int > vetor;
 	int i=0, j=0;
