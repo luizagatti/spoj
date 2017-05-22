@@ -1,21 +1,3 @@
-/*
-Aluna:        Luiza de Almeida Gatti
-Matricula:    2013063142
-Explicação:
-Começo o programa lendo a string chamada S.
-Calculo o comprimento da string S e defino
-a substring como 1.
-Se a string tiver comprimento 1 e ela for
-igual a *, o programa é encerrado.
-Caso contrário, eu faço os devidos cálculos
-para conseguir exibir para o usuário qual o
-valor de N, tal que existe uma string T
-que concatenada N vezes é igual a S.
-
-
-Solução:
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
